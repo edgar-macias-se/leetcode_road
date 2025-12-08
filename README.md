@@ -39,7 +39,7 @@ leetcode_road/
 │
 └── README.md
 
-````
+```
 
 Cada carpeta representa una categoría y cada archivo `.md` contiene:
 
@@ -60,10 +60,10 @@ Cada carpeta representa una categoría y cada archivo `.md` contiene:
 | Two Pointers           | 🚀 |
 | Sliding Window         | 🚀 |
 | Hashing                | 🔥 |
-| Stacks & Queues        | 🔄 |
+| Stacks & Quues        | 🔄 |
 | Trees                  | 🔄 |
 | Dynamic Programming    | 🧠 |
-| Graphs                 | 📉 (por empezar) |
+| Graphs                 | 📉 (por  empezar) |
 
 ---
 
