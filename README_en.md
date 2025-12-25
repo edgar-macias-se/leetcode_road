@@ -46,6 +46,7 @@ Each problem includes:
 | Sliding Window       | 🚀 |
 | Hashing              | 🔥 |
 | Dynamic Programming  | 🧠 |
+| Backtracking         | 🧠 |
 | Graphs               | 📉 |
 
 ---

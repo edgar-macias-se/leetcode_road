@@ -63,6 +63,7 @@ Cada carpeta representa una categoría y cada archivo `.md` contiene:
 | Stacks & Quues        | 🔄 |
 | Trees                  | 🔄 |
 | Dynamic Programming    | 🧠 |
+| Backtracking           | 🧠 |
 | Graphs                 | 📉 (por  empezar) |
 
 ---
